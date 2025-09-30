@@ -125,7 +125,7 @@ No confundir el Registro de Windows con el Historial de eventos.
 ```
 wevtutil qe System /c:20 /f:text  
 wevtutil qe Application /c:50 /f:text  
-wevtutil gli System**
+wevtutil gli System
 ```
 
 ---
